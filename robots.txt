@@ -1,4 +1,4 @@
-Sitemap: https://allthingsprotoss.github.io/sitemapindex.xml
+Sitemap: https://aiur.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: allthingsprotoss.github.io
+Host: aiur.github.io
