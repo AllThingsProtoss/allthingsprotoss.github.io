@@ -12,7 +12,7 @@
 .. nocomments: True
 -->
 
-# Website moved to [aiur.github.io](https://aiur.github.io)!
+# Website moved to [sc2aiur.github.io](https://sc2aiur.github.io)!
 
 
 
