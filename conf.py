@@ -20,7 +20,7 @@ BLOG_AUTHOR = "r/AllThingsProtoss community"  # (translatable)
 BLOG_TITLE = "AllThingsProtoss"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://allthingsprotoss.github.io/"
+SITE_URL = "https://aiur.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://allthingsprotoss.github.io/"
